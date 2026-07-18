@@ -1,1 +1,1 @@
-my kevoriq site
+my kevoriq site - deployed on cloudflare
